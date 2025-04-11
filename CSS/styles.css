@@ -1,0 +1,578 @@
+header1 {
+    height: 200px;
+    background-color: rgba(0,0,0,0.2);
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+    font-style: oblique;
+}
+.bit-container h1 {
+    text-align: center;
+}
+.bit-container {
+    text-align: center;
+}
+.container-two {
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    gap: 50px;
+    margin-top: 20px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-left: 200px;
+    /* margin-top: 400px; */
+}
+section {
+    display: flex;
+    color: white;
+    background-color: rgb(3, 3, 31);
+    width: 500px;
+    gap: 20px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+    padding-left: 30px;
+    margin-left: 50px;
+}
+.price {
+    margin-left: 100px;
+}
+section img {
+    height: 60px;
+    /* border-radius: 100px; */
+}
+.Container-Cadaner{
+     text-align: center;
+     color: white;
+}
+.double-DOT{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    margin-left: 520px;
+}
+.double-DOT input {
+    height: 40px;
+    width: 290px;
+}
+ #btn8 {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    background-color: gray;
+ }
+ .AVAX-Container {
+    text-align: center;
+    color: white;
+ }
+ .AVAX-type {
+    display: flex;
+    flex-direction: row;
+    margin-left:  520px;
+    gap: 60px;
+}
+
+.Output10 {
+    height: 40px;
+    width: 290px;
+    margin-left: 710px;
+   color: red;
+   background-color:rgba(128, 128, 128, 0.301);
+}
+#btn10 {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    background-color: gray;
+}
+.AVAX-type input {
+    height: 40px;
+    width: 290px;
+}
+ .XRP-cntainer {
+    text-align: center;
+    color: white;
+ }
+ .double-XRP {
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    margin-left: 520px;
+ }
+ #Output-12 {
+    height: 40px;
+    width: 290px;
+    margin-left: 700px;
+    background-color: rgb(41, 40, 39);
+ }
+ #btntwo {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    background-color: gray;
+ }
+ .double-XRP input {
+    height: 40px;
+    width: 290px;
+ }
+.Output-3  {
+    height: 40px;
+    margin-left: 710px;
+    width: 290px;
+    background-color: rgba(70, 59, 59, 0.2);
+}
+.Container-DOT {
+    text-align: center;
+    color: white;
+}
+.label {
+    font-size: 30px;
+    color: white;
+}
+.double-ADA {
+    display: flex;
+    flex-direction: row;
+    margin-left: 500px;
+    gap: 60px;
+}
+.double-ADA input {
+    height: 40px;
+    width: 290px;
+}
+.section-Dogein {
+    text-align: center;
+    color: white;
+}
+.section-Dogein h1 {
+    font-size: 40px;
+    text-align: center;
+}
+.double {
+    display: flex;
+    flex-direction: row;
+    margin-left: 520px;
+    gap: 50px;
+}
+.double  input {
+    height: 40px;
+    width: 290px;
+}
+:placeholder-shown {
+    font-size: 20px;
+    color: black;
+}
+#btn {
+    height: 40px;
+    width: 190px;
+    font-size: 20px;
+    background-color: gray;
+}
+#btn2 {
+    height: 40px;
+    width: 190px;
+    font-size: 20px;
+    background-color: gray;
+}
+.Output-Ethrum {
+    height: 50px;
+    width: 290px;
+    background-color: rgba(138, 127, 156, 0.226);
+    margin-left: 750px;
+}
+section {
+    margin-top: 100px;
+}
+#btn5 {
+    height: 40px;
+    width: 190px;
+    font-size: 20px;
+    background-color: gray;
+}
+.double-bit {
+    display: flex;
+    flex-direction: row;
+    margin-left: 520px;
+    gap: 60px;
+}
+.double-bit input {
+    height: 40px;
+    width: 290px;
+}
+.Output-BIT {
+    height: 50px;
+    width: 290px;
+    margin-left: 700px;
+    background-color: rgba(44, 43, 41, 0.267);
+}
+.Output-BNB {
+    height: 50px;
+    width: 290px;
+    margin-left: 691px;
+    background-color: rgba(138, 127, 156, 0.226);
+}
+label {
+    font-size: 30px;
+}
+#btn6 {
+    height: 40px;
+    width: 190px;
+    font-size: 20px;
+    background-color: gray;
+}
+
+#btn7 {
+    height: 40px;
+    width: 190px;
+    font-size: 20px;
+    background-color: gray;
+}
+.Output {
+    height: 50px;
+    padding-left: 90px;
+    color: white;
+    width: 300px;
+    background-color: black;
+    margin-left: 740px;
+}
+.withdraw-text {
+    height: 40px;
+    width: 290px;
+    font-size: 20px;
+}
+.withdraw-text:hover {
+    cursor: pointer;
+}
+.withdraw {
+    background-color: green;
+    height: 60px;
+    width: 300px;
+    margin-left: 900px;
+}
+#btn:hover {
+    cursor: pointer;
+}
+.links-card:hover {color: rgb(41, 40, 39);
+    box-shadow: gold 1px 0px 10px;
+    color: black;
+cursor: pointer;
+}
+.links-card {
+    height: 50px;
+    box-shadow: gold 1px 0px 10px;
+    font-size: 20px;
+    width: 290px;
+    color: black;
+    background-color: white;
+}
+.slide-in {
+    color: gold;
+    transform: translateX(-100%);
+    animation: slideIn 1s ease-out forwards ;
+}
+#Background {
+    background-color: rgb(6, 6, 15);
+}
+.For-crypto {
+    height: 150px;
+    background-color: rgb(1, 1, 37);
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 100px;
+    color: white;
+}
+.For-crypto a {
+    text-decoration: none;
+    font-size: 30px;
+    padding-top: 20px;
+    color: white;
+}
+.double-section {
+    display: flex;
+flex-direction: row;
+gap: 1px;
+}
+.links-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin-left: 100px;
+}
+.links-container p{
+   color: white;
+   font-size: 30px;
+   margin-left: 90px;
+}
+.links-container  img {
+   height: 200px;
+   width: 200px;
+   gap: 20px;
+}
+.Container-Solaner {
+    text-align: center;
+    color: white;
+}
+.double-Solaner {
+    display: flex;
+    flex-direction: row;
+    margin-left: 520px;
+    gap: 60px;
+}
+.Output-Solnner {
+    margin-left: 710px;
+    background-color: rgba(100, 90, 90, 0.295);
+    height: 40px;
+    width: 290px;
+    
+}
+.double-Solaner input {
+    height: 40px;
+    width: 290px;
+}
+.double-section img {
+    height: 90px;
+    width: 90px;
+    border-radius: 100px;
+    animation: rotate 5s infinite;
+}
+.container-ethrum{
+    text-align: center;
+    color: white;
+}
+.container-ethrum h1 {
+    font-size: 40px;
+}
+.Container-BNB {
+    text-align: center;
+    color: white;
+}
+
+.Container-BNB h1 {
+    font-size: 40px;
+    text-align: center;
+}
+#btn3 {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    background-color: gray;
+
+}
+
+#btn4 {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    background-color: gray;
+}
+.slide-in2 {
+    color: gold;
+    transform: translateX(-100%);
+    animation: slideIn2 2s ease-out forwards ;
+}
+
+
+/* Home */
+#Home-body {
+    background-color: rgb(1, 1, 37);
+}
+.two h2 {
+    font-size: 30px;
+}
+.two nav a:hover {
+    cursor: pointer;
+    color: gold;
+}
+.two nav a {
+    margin-left: 40px;
+    padding-top: 200px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.two {
+    height: 160px;
+    background-color: rgb(17, 17, 58);
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+    color: white;
+    padding-top: 40px;
+    text-align: center;
+    padding-left: 60px;
+}
+.sign-up:hover {
+    cursor: pointer;
+}
+.sign-up {
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgba(1, 1, 32, 0.747);
+}
+
+
+
+.hero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 200px;
+}
+.hero h1 {
+    color: white;
+    font-size: 40px;
+}
+.rate {
+    height: 130px;
+    width: 310px;
+    border-radius: 10px;
+    background-color: rgb(17, 17, 58);
+}
+.rate .first-rate {
+    height: 50px;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 290px;
+    color: white;
+    background-color: rgb(3, 3, 31);
+}
+.Converter-header {
+    height: 120px;
+    background-color: rgb(4, 4, 90);
+    padding-top: 30px;
+    padding-left: 60px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.Converter-header a {
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    padding-top: 30px;
+}
+#Converter-body {
+    background-color: rgb(1, 1, 20);
+}
+.table {
+    display: flex;
+    gap: 100px;
+    font-size: 30px;
+     border-bottom: black;
+    margin-left: 200px;
+    color: white;
+    flex-direction: row;
+}.Exchange-card {
+    height: 1200px;
+    background-color: rgb(17, 17, 58);
+    border-radius: 10px;
+    width:1190px;
+    padding-top: 40px;
+    margin-left: 200px;
+}
+.crypto-card img {
+    height: 100px;
+    border-radius: 100p;
+}
+
+.crypto-img {
+    color: white;
+    font-size: 20px;
+}
+.card {
+    height: 50px;
+    display: flex;
+    flex-direction: r;
+}
+.crypto-img img {
+    height: 50px;
+    width: 60px;
+    border-radius: 100px;
+}
+.crypto-name {
+    font-size: 30px;
+    color: white;
+}
+.con:hover {
+    cursor: pointer;
+}
+.con {
+    height: 50px;
+    border-radius: 8px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 290px;
+    background-color: rgb(27, 27, 150);
+}   
+.double-Ethreum {
+    display: flex;
+    flex-direction: row;
+    margin-left: 520px;
+    gap: 40px;
+}
+.double-Ethreum input {
+    height: 40px;
+    width: 290px;
+}
+.container-all{
+    text-align: center;
+    color: white;
+}
+.Output-Ethrum {
+    margin-left: 700px;
+}
+.label-Ethreum {
+    font-size: 40px
+}
+.container h1 {
+    font-size: 90px;
+}
+.hero img {
+    height: 350px;
+    border-radius: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+
+@keyframes slideIn {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+
+@keyframes slideIn2 {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
